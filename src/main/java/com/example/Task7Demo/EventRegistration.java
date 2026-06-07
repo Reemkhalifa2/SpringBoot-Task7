@@ -7,9 +7,8 @@ import lombok.Setter;
 @Getter
 @Setter
 @AllArgsConstructor
-public class Product {
-    private Integer productId;
-    private String productName;
-    private Double price;
+public class EventRegistration {
 
+    private int registrationId;
+    private String attendeeName;
 }
