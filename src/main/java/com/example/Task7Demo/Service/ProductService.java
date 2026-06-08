@@ -1,6 +1,6 @@
 package com.example.Task7Demo.Service;
 
-import com.example.Task7Demo.Product;
+import com.example.Task7Demo.Entity.Product;
 import org.springframework.stereotype.Service;
 
 import java.util.HashMap;

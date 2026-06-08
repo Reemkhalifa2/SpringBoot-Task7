@@ -1,6 +1,6 @@
 package com.example.Task7Demo.Service;
 
-import com.example.Task7Demo.EventRegistration;
+import com.example.Task7Demo.Entity.EventRegistration;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;

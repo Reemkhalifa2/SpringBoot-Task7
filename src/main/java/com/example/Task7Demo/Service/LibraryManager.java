@@ -1,6 +1,7 @@
-package com.example.Task7Demo;
+package com.example.Task7Demo.Service;
 
-import java.lang.reflect.Member;
+import com.example.Task7Demo.Entity.LibraryMember;
+
 import java.util.ArrayList;
 
 public class LibraryManager {

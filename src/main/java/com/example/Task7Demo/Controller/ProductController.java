@@ -1,4 +1,4 @@
-package com.example.Task7Demo;
+package com.example.Task7Demo.Controller;
 
 import com.example.Task7Demo.Service.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;

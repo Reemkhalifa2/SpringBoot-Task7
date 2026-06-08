@@ -1,4 +1,4 @@
-package com.example.Task7Demo;
+package com.example.Task7Demo.Entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

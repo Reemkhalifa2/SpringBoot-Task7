@@ -1,4 +1,4 @@
-package com.example.Task7Demo;
+package com.example.Task7Demo.Service;
 
 import java.util.ArrayList;
 
